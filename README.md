@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @longan177
-- 👀 I’m interested in web development!
+- 👋 Hi, my name is Wei Loong. I’m a self taught programmer who is from engineering background. I have obtained Bachelor of Civil Engineering Degree in University of Malaya, Malaysia. I am highly passionate in tech industry and constantly improve myself by learning new tech stuff everyday. 
+- 
+- 👀 I’m interested in web development! 
 - 🌱 I’m currently learning MERN
+
+
 
 <!---
 longan177/longan177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
