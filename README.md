@@ -3,6 +3,7 @@
 - 👀 I’m interested in web development! 
 - 🌱 I’m currently learning MERN Stack.
 
+Check out my portfolio! https://longan177.github.io/
 
 
 <!---
